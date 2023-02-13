@@ -9,7 +9,5 @@ export default interface Preferences {
     | "duckduckgo"
     | "brave"
     | "yahoo";
-  "search.defaults.proxy"?:
-    | "ultraviolet"
-    | "bruhprox 5 LTS";
+  "search.defaults.proxy"?: "ultraviolet";
 }
