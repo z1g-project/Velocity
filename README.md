@@ -49,7 +49,7 @@ Velocity exposes basic APIs in order to allow developers to easily create custom
 
 ## Deployment
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/z1g-project/terbium)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/z1g-project/velocity)
 
 ### Requirements
 
