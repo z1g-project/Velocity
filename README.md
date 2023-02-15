@@ -43,7 +43,13 @@ Velocity implements many commands that web browsers commonly use in order to do 
 - `Alt + W` - Close current tab (originally `Ctrl + W`)
 - `Ctrl + Alt + I` - Open developer tools (originally `Ctrl + Shift + I`)
 
+## API
+
+Velocity exposes basic APIs in order to allow developers to easily create customizations and implement it into their own projects. To learn more, check out the [API Docs](/docs/API.md).
+
 ## Deployment
+
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/z1g-project/terbium)
 
 ### Requirements
 
